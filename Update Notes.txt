@@ -1,0 +1,5 @@
+I only updated the genrated maze funtion (I didnt add too much code).
+
+I only made the maze a little complex.
+
+And I also updated the while loop funtion in the genrated maze to make sure that there is 1 path from start to end without eating from the border.
