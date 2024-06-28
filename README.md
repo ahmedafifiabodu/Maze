@@ -64,13 +64,13 @@ Throughout the development of this project, various types of mazes were explored
 - Aldous-Broder Maze
 - 
 <div align="center">
-  <video src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/3bb09eed-3a76-4e4f-9d56-a4fc343dd18d" width="800" />
+  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/3bb09eed-3a76-4e4f-9d56-a4fc343dd18d" width="800" />
 </div>
 
 - Final Maze
 
 <div align="center">
-  <video src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/dbdb0375-e9c4-4e39-8d92-16ba2bf14cc3" width="800" />
+  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/dbdb0375-e9c4-4e39-8d92-16ba2bf14cc3" width="800" />
 </div>
 
 - Maze
