@@ -75,7 +75,9 @@ Throughout the development of this project, various types of mazes were explored
 
 - Maze
 
-![Maze](https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/b785a563-16ce-4e5a-a5da-89db19763f92)
+<div align="center">
+  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/b785a563-16ce-4e5a-a5da-89db19763f92" width="400" />
+</div>
 
 
 - New Maze
