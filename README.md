@@ -16,6 +16,10 @@ This project showcases two distinct maze solutions: Static and Dynamic. The Stat
 
 The Static version of the maze is a fixed layout that does not change over time. It focuses on navigating through a predefined maze structure.
 
+<div align="center">
+  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/f9b0983f-05d2-4e5c-a19e-eaf8e8f31de7" width="800" />
+</div>
+
 ### Key Components:
 
 - **DrawGrid**: Responsible for drawing the maze grid on the screen.
@@ -33,6 +37,10 @@ The Static version of the maze is a fixed layout that does not change over time.
 ## Simple Maze (Dynamic)
 
 The Dynamic version introduces an evolving maze that changes as the player progresses, offering a more challenging and engaging experience.
+
+<div align="center">
+  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/243341e8-76d7-4ab8-975d-92e27945674e" width="800" />
+</div>
 
 ### Key Components:
 
