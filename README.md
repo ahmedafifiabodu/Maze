@@ -64,13 +64,13 @@ Throughout the development of this project, various types of mazes were explored
 - Aldous-Broder Maze
 
 <div align="center">
-  <video src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/3a977658-83a7-4f8f-9d6a-f8a724c51f37" width="400" />
+  <video src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/0f74ee1a-4c5e-4b07-9a8f-9778e083f0a2" width="800" />
 </div>
 
 - Final Maze
 
 <div align="center">
-  <video src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/da82fb01-7f25-46e9-ad8b-a723947860d5" width="400" />
+  <video src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/e79517fc-6a69-4b17-9e3f-eb44e995299a" width="800" />
 </div>
 
 - Maze
@@ -79,9 +79,18 @@ Throughout the development of this project, various types of mazes were explored
   <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/b785a563-16ce-4e5a-a5da-89db19763f92" width="800" />
 </div>
 
-
 - New Maze
+![Final Maze](https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/28f1429f-f0f6-4cfe-875d-6d041294e759)
+
+<div align="center">
+  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/b785a563-16ce-4e5a-a5da-89db19763f92" width="800" />
+</div>
+  
 - Perfect Maze
+
+- <div align="center">
+  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/2c1f0b7c-2bbe-4a43-84ee-219442d42f0f" width="800" />
+</div>
 
 These variants provided a comprehensive understanding of maze generation algorithms and their applications in game development.
 
