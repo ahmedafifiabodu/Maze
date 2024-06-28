@@ -62,8 +62,22 @@ The Dynamic version introduces an evolving maze that changes as the player progr
 Throughout the development of this project, various types of mazes were explored, including:
 
 - Aldous-Broder Maze
+
+<div align="center">
+  <video src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/3a977658-83a7-4f8f-9d6a-f8a724c51f37" width="400" />
+</div>
+
 - Final Maze
+
+<div align="center">
+  <video src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/da82fb01-7f25-46e9-ad8b-a723947860d5" width="400" />
+</div>
+
 - Maze
+
+![Maze](https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/b785a563-16ce-4e5a-a5da-89db19763f92)
+
+
 - New Maze
 - Perfect Maze
 
