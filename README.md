@@ -80,10 +80,9 @@ Throughout the development of this project, various types of mazes were explored
 </div>
 
 - New Maze
-![Final Maze](https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/28f1429f-f0f6-4cfe-875d-6d041294e759)
 
 <div align="center">
-  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/b785a563-16ce-4e5a-a5da-89db19763f92" width="800" />
+  <img src="https://github.com/ahmedafifiabodu/SFML-Maze-Game/assets/74466733/28f1429f-f0f6-4cfe-875d-6d041294e759" width="800" />
 </div>
   
 - Perfect Maze
